@@ -2,13 +2,13 @@
 
 My name is Julius Hsu :) 
 I'm a positive, enthusiastic and competent Full Stack Developer, seeking long-term employment with a company where I can immerse myself in their brand and ambitions!
-
 - 🌱 I’m currently learning :
-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-- 📫 How to reach me: juliushsu07@gmail.com
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
+📫 : juliushsu07@gmail.com
+My website built with ReactJS: https://julius-hsu-website-36608.web.app
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juliushsu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliushsu/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/juliushsu07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliushsu07/" height="30" width="40" /></a>
