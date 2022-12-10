@@ -8,8 +8,8 @@ I'm a positive, enthusiastic and competent Full Stack Developer, seeking long-te
 - 🌐 My website built with ReactJS: https://julius-hsu-website-36608.web.app
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juliushsu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliushsu/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/juliushsu07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliushsu07/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juliushsu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliushsu/" height="30" width="40" /></a>
+<a href="https://leetcode.com/juliushsu07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliushsu07/" height="30" width="40" /></a>
 </p>
 
 
