@@ -5,7 +5,7 @@ I'm a positive, enthusiastic and competent Full Stack Developer, seeking long-te
 - 🌱 I’m currently learning :
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 - 📫 Reach me via email: juliushsu07@gmail.com
-- 🌐 My website built with ReactJS: https://julius-hsu-website-36608.web.app
+- 🌐 My website built with ReactJS: https://juliushsu.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juliushsu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliushsu/" height="30" width="40" /></a>
