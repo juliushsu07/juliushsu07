@@ -3,7 +3,7 @@
 My name is Julius Hsu :) 
 I'm a positive, enthusiastic IT - programmer, seeking long-term opportunities with a company where I can immerse myself in their ambitions and also grow my career in Full Stack Development!
 - 📫 Reach me via email: juliushsu07@gmail.com
-- 🌐 My most recent Frontend React Project DEMO: https://aircall-5fd82.web.app/allcalls
+- 🌐 My most recent Frontend React Project DEMO: https://aircall-5fd82.web.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
