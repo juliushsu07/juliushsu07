@@ -5,7 +5,7 @@ I'm a positive, enthusiastic IT - programmer, seeking long-term opportunities wi
 - 📫 Reach me via email: juliushsu07@gmail.com
 - 🌐 My portfolio website: https://juliushsu.com/
 - 🧠 My most recent Frontend 48hr challenge DEMO for SpeerTech Interview : https://aircall-5fd82.web.app/
-- 🧠 My most recent MERN FULL Stack project deployed via firebase: https://todolist-b59c9.web.app/
+- 🧠 My most recent MERN FULL Stack project deployed via Firebase: https://todolist-b59c9.web.app/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
