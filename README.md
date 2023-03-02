@@ -4,8 +4,8 @@ My name is Julius Hsu :)
 I'm a positive, enthusiastic IT - programmer, seeking long-term opportunities with a company where I can immerse myself in their ambitions and also grow my career in Full Stack Development!
 - 📫 Reach me via email: juliushsu07@gmail.com
 - 🌐 My portfolio website: https://juliushsu.com/
-- 🧠 My most recent Frontend 48hr challenge DEMO for SpeerTech Interview : https://aircall-5fd82.web.app/
-- 🧠 My most recent MERN Stack project deployed via Firebase: https://todolist-b59c9.web.app/
+- 🧠 Frontend 48hr challenge DEMO for SpeerTech Interview : https://aircall-5fd82.web.app/
+- 🧠 MERN Stack CRUD App deployed via Firebase: https://todolist-b59c9.web.app/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
