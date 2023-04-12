@@ -7,6 +7,7 @@ I'm a positive, enthusiastic IT - programmer, seeking long-term opportunities wi
 - 🧠 Recently learning more in-depth Reactjs with C# dotnet backend: https://github.com/juliushsu07/Reactivities
 - 🧠 Frontend 48hr challenge DEMO for SpeerTech Interview : https://aircall-5fd82.web.app/
 - 🧠 MERN Stack CRUD App deployed via Firebase: https://todolist-b59c9.web.app/
+- 🧠 Frontend 48hr challenge Repository for Eon Media Interview : https://github.com/juliushsu07/video-streaming-app
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
