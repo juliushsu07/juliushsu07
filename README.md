@@ -4,7 +4,7 @@ My name is Julius Hsu :)
 I'm an enthusiastic software developer, seeking long-term opportunities with a company where I can immerse myself in their ambitions!
 - 📫 Please reach me via email: juliushsu07@gmail.com
 - 🌐 My portfolio website: https://juliushsu.com/
-- 🧠 Recently learning more in-depth Reactjs with C# dotnet backend: https://github.com/juliushsu07/Reactivities
+- 📖 Currently learning more in-depth Reactjs with C# dotnet backend: https://github.com/juliushsu07/Reactivities
 - 🧠 Frontend 48hr challenge DEMO for SpeerTech Interview : https://aircall-5fd82.web.app/
 - 🧠 Frontend 48hr challenge Repository for Eon Media Interview : https://github.com/juliushsu07/video-streaming-app
 - 🧠 MERN Stack CRUD App deployed via Firebase: https://todolist-b59c9.web.app/
