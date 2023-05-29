@@ -1,7 +1,4 @@
 ### Hi there 👋 
-
-My name is Julius Hsu :) 
-I'm an enthusiastic software developer, seeking long-term opportunities with a company where I can immerse myself in their ambitions!
 - 📫 Please reach me via email: juliushsu07@gmail.com
 - 🌐 My portfolio website: https://juliushsu.com/
 - 📖 Currently learning more in-depth Reactjs with C# dotnet backend: https://github.com/juliushsu07/Reactivities
